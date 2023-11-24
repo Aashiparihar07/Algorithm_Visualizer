@@ -16,10 +16,9 @@ Open index.html in a web browser.
 Select an algorithm from the provided options.
 Input parameters or data as required.
 Run the visualization and observe the algorithm in action.
-Demo
-Include a link to a live demo (if available) or screenshots demonstrating the functionality and interface of the algorithm visualizer.
 
-Contributing
+
+Contributing:
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ![101](https://github.com/Aashiparihar07/Algorithm_Visualizer/assets/115942226/7417f289-1a3c-41b0-b30b-43d8211287c6)
