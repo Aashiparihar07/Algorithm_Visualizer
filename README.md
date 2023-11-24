@@ -24,5 +24,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ![101](https://github.com/Aashiparihar07/Algorithm_Visualizer/assets/115942226/7417f289-1a3c-41b0-b30b-43d8211287c6)
 ![102](https://github.com/Aashiparihar07/Algorithm_Visualizer/assets/115942226/b4c94aec-37bd-40f6-8691-9eb1c7c1a2db)
-![101](https://github.com/Aashiparihar07/Algorithm_Visualizer/assets/115942226/7417f289-1a3c-41b0-b30b-43d8211287c6)
 
+
+![103](https://github.com/Aashiparihar07/Algorithm_Visualizer/assets/115942226/f4a8ac2e-f40e-4e1c-a679-00f7a9e0c6c3)
